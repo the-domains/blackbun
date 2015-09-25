@@ -1,6 +1,7 @@
 name: BlackBun
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.24891
+typography_spectrum: 0.00218
 cta:
   domain: null
   bucket: null
